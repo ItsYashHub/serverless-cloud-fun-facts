@@ -111,10 +111,6 @@ To avoid unintended charges after experimenting:
 5. **IAM Role** (optional)
    - IAM → Roles → delete the specific Lambda execution role if not reused.
 
----
-
-## 💼 How to Present This on Your Resume / GitHub
-
 **Project:** Cloud Fun Facts Generator (Serverless AWS + GenAI)  
 **Tech:** AWS Lambda, API Gateway, DynamoDB, Amazon Bedrock (Claude 3.5 Sonnet), HTML/JS, IAM, CloudWatch  
 
